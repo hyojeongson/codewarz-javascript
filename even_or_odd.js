@@ -1,5 +1,10 @@
 function even_or_odd(number) {
-  return number % 2 ? "Odd" : "Even";
+
+  if(number % 2 === 0){
+
+    return 'Even';
+  }
+  return 'Odd';
 }
 
 module.exports = even_or_odd;
