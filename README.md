@@ -1,5 +1,5 @@
 
-# CodeWarz - CodeWars and TDD
+# CodeWarz : javascript Algorithm Study! && CodeWars and TDD
 
 
 ### Install Mocha
@@ -38,10 +38,9 @@ mocha -w even_or_odd.*
 ```
 
 
-### 자주 GitHub에 commit + push 하세요
+### GitHub에 commit + push 하기
 ```bash
 git add .
 git commit -m 'even or odd'
 git push origin master
 ```
-
