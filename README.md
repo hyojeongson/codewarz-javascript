@@ -1,5 +1,5 @@
 
-# CodeWarz : javascript Algorithm Study! && CodeWars and TDD
+# javascript Algorithm Study! && CodeWars and TDD
 
 ### completed
 
