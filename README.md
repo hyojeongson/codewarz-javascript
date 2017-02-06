@@ -9,6 +9,7 @@
 - [x] largest 5 digit number in a series 
 
 ### String
+
 - [x] FUNCTION 1 - HELLO WORLD
 - [x] GRASSHOPPER - COMBINE STRINGS
 - [x] SLEIGH AUTHENTICATION
@@ -25,6 +26,7 @@
 - [x] STRINGY STRINGS
 
 ### Number
+
 - [x] FUNCTION 2 - SQUARING AN ARGUMENT
 - [x] FUNCTION 3 - MULTIPLYING TWO NUMBERS
 - [x] OPPOSITE NUMBER
@@ -39,6 +41,7 @@
 - [x] FIND THE REMAINDER
 
 ### Array
+
 - [x] LAST
 - [x] COUNT THE MONKEYS!
 - [x] SUM ARRAYS
@@ -57,6 +60,7 @@
 - [x] BARKING MAD
 
 ### Function
+
 - [x] A FUNCTION WITHIN A FUNCTION
 - [x] THE 'IF’ FUNCTION
 - [x] WELCOME TO THE CITY
